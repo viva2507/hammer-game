@@ -1,1 +1,2 @@
-# hammer-game
+# Geologist
+Geologist Project
